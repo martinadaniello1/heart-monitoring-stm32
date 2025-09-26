@@ -73,7 +73,7 @@ The wearable system operates in three primary modes:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/martinadaniello1/heart-monitoring-stm32.git
+    git clone https://github.com/martinadaniello1/heart-monitoring-stm32
     cd heart-monitoring-stm32
     ```
 3.  **Firmware Compilation & Flashing:**
