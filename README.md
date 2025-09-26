@@ -82,4 +82,3 @@ The wearable system operates in three primary modes:
     *   Compile the code.
     *   Flash the compiled firmware onto the NUCLEO-G474RE development board.
 4.  **Serial Monitor:** Use a serial terminal configured for UART communication to observe raw data outputs in Waveform Monitoring Mode.
-
