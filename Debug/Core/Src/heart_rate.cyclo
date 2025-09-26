@@ -1,0 +1,4 @@
+../Core/Src/heart_rate.c:10:7:calculate_peak_intervals	11
+../Core/Src/heart_rate.c:50:10:find_minimum_position	3
+../Core/Src/heart_rate.c:62:10:remove_wrong	4
+../Core/Src/heart_rate.c:76:10:remove_wrong_int	4

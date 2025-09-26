@@ -1,0 +1,3 @@
+../Core/Src/statistics.c:5:7:simple_mean	2
+../Core/Src/statistics.c:17:7:int_simple_mean	2
+../Core/Src/statistics.c:28:7:standard_deviation	5

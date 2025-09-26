@@ -1,0 +1,10 @@
+../Core/Src/ssd1306_plots.c:19:11:ssd1306_PlotInit	2
+../Core/Src/ssd1306_plots.c:62:6:ssd1306_SetPage	7
+../Core/Src/ssd1306_plots.c:125:9:ssd1306_GetMax_x	5
+../Core/Src/ssd1306_plots.c:139:9:ssd1306_GetMin_x	5
+../Core/Src/ssd1306_plots.c:153:6:ssd1306_PrintMessage	1
+../Core/Src/ssd1306_plots.c:160:6:ssd1306_PrintMessage2	1
+../Core/Src/ssd1306_plots.c:167:6:ssd1306_PrintValuesPage1	6
+../Core/Src/ssd1306_plots.c:209:6:ssd1306_PrintValuesPage3	1
+../Core/Src/ssd1306_plots.c:233:6:ssd1306_ResetPlot	3
+../Core/Src/ssd1306_plots.c:255:6:ssd1306_Plot	13

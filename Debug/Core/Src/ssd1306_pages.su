@@ -1,0 +1,4 @@
+../Core/Src/ssd1306_pages.c:298:6:ssd1306_DrawPage1	16	static
+../Core/Src/ssd1306_pages.c:306:6:ssd1306_DrawPage2	16	static
+../Core/Src/ssd1306_pages.c:318:6:ssd1306_DrawPage3	16	static
+../Core/Src/ssd1306_pages.c:330:6:ssd1306_DrawWarning	16	static

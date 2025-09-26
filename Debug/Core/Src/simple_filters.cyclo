@@ -1,0 +1,3 @@
+../Core/Src/simple_filters.c:11:6:moving_average_filter	5
+../Core/Src/simple_filters.c:33:6:low_pass_filter	4
+../Core/Src/simple_filters.c:49:6:high_pass_filter_flat	3

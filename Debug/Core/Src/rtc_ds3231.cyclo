@@ -1,0 +1,5 @@
+../Core/Src/rtc_ds3231.c:31:9:bcd_to_dec	1
+../Core/Src/rtc_ds3231.c:37:9:dec_to_bcd	1
+../Core/Src/rtc_ds3231.c:43:8:ds3231rtc_init	2
+../Core/Src/rtc_ds3231.c:55:8:ds3231rtc_get_date_time	2
+../Core/Src/rtc_ds3231.c:75:8:ds3231rtc_set_date_time	2
